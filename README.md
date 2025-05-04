@@ -1,4 +1,6 @@
-# Welcome to your Expo app 👋
+# Welcome to your universal minimal Expo app 👋
+
+This is default expo template with fonts, components, assets and theming removed, just a simple minimal setup
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
